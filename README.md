@@ -1,7 +1,7 @@
 ### Hi! Ian here. 👋 
 I'm a Frontend Developer currently working at <a href="www.practiceignition.com">Practice Ignition</a>. I've been lucky enough to also work for <a href="https://readingeggs.co.uk/about-blake/">Blake Eduction</a> and <a href="https://www.yarno.com.au/">Yarno</a>.
 
-I live in London these days but I work for an Australian team, so I guess you could say my job is as remote as it comes.
+I live in London 🇬🇧 these days but I work for an Australian 🇦🇺 team, so I guess you could say my job is as remote as it comes. 😃
 
 I've worked mostly Frontend since I fell in love with coding at <a href="https://generalassemb.ly/">General Assembly</a>, but I have played with some backend technologies over the years, including Ruby on Rails, some Node, and dabbled in AWS and Google Cloud.
 

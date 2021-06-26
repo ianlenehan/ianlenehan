@@ -1,9 +1,9 @@
 ### Hi! Ian here. 👋 
-I'm a Frontend Developer currently working at <a href="www.practiceignition.com">Practice Ignition</a>. I've been lucky enough to also work for <a href="https://readingeggs.co.uk/about-blake/">Blake Eduction</a> and <a href="https://www.yarno.com.au/">Yarno</a>.
+I'm a Frontend Developer currently working at <a href="https://www.practiceignition.com" target="_blank">Practice Ignition</a>. I've been lucky enough to also work for <a href="https://readingeggs.co.uk/about-blake/" target="_blank">Blake Eduction</a> and <a href="https://www.yarno.com.au/" target="_blank">Yarno</a>.
 
 I live in London 🇬🇧 these days but I work for an Australian 🇦🇺 team, so I guess you could say my job is as remote as it comes. 😃
 
-I've worked mostly Frontend since I fell in love with coding at <a href="https://generalassemb.ly/">General Assembly</a>, but I have played with some backend technologies over the years, including Ruby on Rails, some Node, and dabbled in AWS and Google Cloud.
+I've worked mostly Frontend since I fell in love with coding at <a href="https://generalassemb.ly/" target="_blank">General Assembly</a>, but I have played with some backend technologies over the years, including Ruby on Rails, some Node, and dabbled in AWS and Google Cloud.
 
 Here's some of the stuff I'm working on in my own time:
 
@@ -13,4 +13,4 @@ Here's some of the stuff I'm working on in my own time:
 
 There's so much to learn in this industry and I wish there was more time in the day to build more and learn more. I enjoy sharing my knowledge through mentoring at General Assembly and running intro to code workshops at the places I work.
 
-You'll find more information over at <a href="www.ianlenehan.com">my website</a>.
+You'll find more information over at <a href="https://www.ianlenehan.com" target="_blank">my website</a>.

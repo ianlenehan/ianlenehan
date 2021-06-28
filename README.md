@@ -13,4 +13,4 @@ Here's some of the stuff I'm working on in my own time:
 
 There's so much to learn in this industry and I wish there was more time in the day to build more and learn more. I enjoy sharing my knowledge through mentoring at General Assembly and running intro to code workshops at the places I work.
 
-You'll find more information over at <a href="https://www.ianlenehan.com" target="_blank">my website</a>.
+You'll find more information over at <a href="https://www.ianlenehan.com" target="_blank">my website</a> or my <a href="https://www.linkedin.com/in/ilenehan/" target="_blank">LinkedIn profile</a>.

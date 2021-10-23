@@ -16,5 +16,3 @@ Here's some of the stuff I'm working on in my own time:
 There's so much to learn in this industry and I wish there was more time in the day to build more and learn more. I enjoy sharing my knowledge through mentoring at General Assembly and running intro to code workshops at the places I work. I've also recently started a <a href="https://youtube.com./ianlenehan/" target="_blank">YouTube channel</a> which is a good way for me to keep learning more and to share what I have learned with others.
 
 You'll find more information over at <a href="https://www.ianlenehan.com" target="_blank">my website</a> or my <a href="https://www.linkedin.com/in/ilenehan/" target="_blank">LinkedIn profile</a>.
-
-[![Ian's GitHub stats](https://github-readme-stats.vercel.app/api?username=ianlenehan)](https://github.com/anuraghazra/github-readme-stats)
